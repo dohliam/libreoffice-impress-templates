@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE manifest:manifest PUBLIC "-//OpenOffice.org//DTD Manifest 1.0//EN" "Manifest.dtd">
+<manifest:manifest>
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.presentation-template" manifest:full-path="/"/>
+ <manifest:file-entry manifest:media-type="application/vnd.sun.xml.ui.configuration" manifest:full-path="Configurations2/"/>
+ <manifest:file-entry manifest:media-type="image/png" manifest:full-path="Pictures/10000000000003200000025832CBF8DB.png"/>
+ <manifest:file-entry manifest:media-type="image/gif" manifest:full-path="Pictures/100002000000000A0000000A1F4FBE6C.gif"/>
+ <manifest:file-entry manifest:media-type="image/gif" manifest:full-path="Pictures/100002000000000A0000000ADDA84F49.gif"/>
+ <manifest:file-entry manifest:media-type="image/gif" manifest:full-path="Pictures/100002000000000A0000000AEF71DCFC.gif"/>
+ <manifest:file-entry manifest:media-type="image/png" manifest:full-path="Pictures/100000000000032000000258163146C6.png"/>
+ <manifest:file-entry manifest:media-type="image/gif" manifest:full-path="Pictures/100002000000000A0000000A2DB17B76.gif"/>
+ <manifest:file-entry manifest:media-type="image/gif" manifest:full-path="Pictures/100002000000000A0000000A9CD39ACD.gif"/>
+ <manifest:file-entry manifest:media-type="image/png" manifest:full-path="Pictures/10000000000000200000002000309F1C.png"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Pictures/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="content.xml"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="styles.xml"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="meta.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Thumbnails/thumbnail.png"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Thumbnails/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="settings.xml"/>
+</manifest:manifest>
