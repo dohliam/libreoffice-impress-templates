@@ -14,15 +14,15 @@ For example, the `libreoffice-templates` package (description: "Additional set o
 
 This is not an ideal state of affairs.
 
-# Goals
+## Goals
 1. To provide a collection of well-designed, freely-licensed, usable templates for LibreOffice Impress.
 
 2. To eventually build packages for as many distros as possible so that people can install extra templates easily through their package manager. These should work without any additional intervention on the part of the user -- if you install a templates package, you should just need to open Impress and go to the templates gallery to see all the templates you have just installed, ready for use.
 
 3. To provide a central place for a curated, maintained collection of high-quality, working Impress templates designed by the community.
 
-# Templates
-## modern-impress-templates
+## Templates
+### modern-impress-templates
 A series of 41 templates [made many years ago](http://extensions.openoffice.org/en/project/modern-impress-templates) for OOo and provided as an .oxt file. This seems to have been the first (or perhaps only) attempt to collect a series of freely-licensed, well-designed modern templates for LibreOffice in one place.
 
 Unfortunately the oxt file does not work, and installing the extension does not actually make any templates available in Impress. However, the .oxt file contains .otp files which can be extracted and opened directly in LibreOffice.
@@ -72,8 +72,33 @@ The templates included in __modern-impress-templates__ are:
 * _ubuntu-caramel-mocha.otp_
 * _ubuntu-mocha.otp_
 
+#### samples
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/another-poppy/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/aquarius/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/blue-elegance/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/citrus-e/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/emotion/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/emotion2/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eos/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/fields-of-peace/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/fresh-morning/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/glowing-rectangles/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/golthia/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/green-concentration/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/metal-motion/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/more-green/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/motion-stripes/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/pixels-rock/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo1/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo4/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/sedi/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/suse-wallpaper/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/swamp-gas/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/the-bait-nc/Thumbnails/thumbnail.png)
 
-## lo-35-lyt
+For a full list of template screenshots in this package, see the [screenshots page](https://github.com/dohliam/libreoffice-impress-templates/blob/master/screenshots.md#modern-impress-templates).
+
+### lo-35-lyt
 A series of 25 presentation template layouts provided in version 3.5 of LibreOffice. They were located in the `/usr/lib/libreoffice/share/template/common/layout/` directory. They no longer appear to be available in recent versions of LibreOffice, having been replaced by ten much less useful templates (`AbstractGreen.otp`, `AbstractRed.otp`, `AbstractYellow.otp`, `BrightBlue.otp`, `DNA.otp`, `Inspiration.otp`, `LushGreen.otp`, `Metropolis.otp`, `Sunset.otp`, `Vintage.otp`).
 
 The templates included in __lo-35-lyt__ are:
@@ -105,9 +130,22 @@ The templates included in __lo-35-lyt__ are:
 
 Most of the templates were created by Ilko Hoepping, with others by Volker Ahrendt. These appear to be licensed under LGPLv3 along with the rest of LibreOffice v3.5.
 
+#### samples
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-blackandwhite/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-bluelinesgrad/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-brown/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-forest/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-frepa/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-movwaves/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-glacier/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-keyboard/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-water/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/lo-35-lyt/lyt-wine/Thumbnails/thumbnail.png)
+
+For a full list of template screenshots in this package, see the [screenshots page](https://github.com/dohliam/libreoffice-impress-templates/blob/master/screenshots.md#lo-35-lyt).
 
 
-## chtsai-impress
+### chtsai-impress
 A collection of 16 templates originally made between 2005-2009 for OOo Impress by [Chih-Hao Tsai](http://technology.chtsai.org/impress/). It includes several templates suitable for widescreens.
 
 These are licensed CC-BY-SA (see included license file).
@@ -130,11 +168,21 @@ The templates included in __chtsai-impress__ are:
 * _xuhai.otp_
 * _xuhai2.otp_
 
+#### samples
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/chtsai-impress/europa/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/chtsai-impress/kaohsiung/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/chtsai-impress/titan/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/chtsai-impress/tokyo-midtown-1/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/chtsai-impress/tokyo-midtown-2/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/chtsai-impress/tokyo-midtown-3/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/chtsai-impress/xuhai2/Thumbnails/thumbnail.png)
 
-## user-contrib
+For a full list of template screenshots in this package, see the [screenshots page](https://github.com/dohliam/libreoffice-impress-templates/blob/master/screenshots.md#chtsai-impress).
+
+### user-contrib
 Calling all designers! This is your chance to make a difference by making well-designed templates freely available so that non-designers don't have to (_shudder_) make their own. Any and all submissions are welcome in the `user-contribs` folder. It doesn't have to be the best presentation template you can make -- just the template you wish everyone else had used when you have to sit through a day or a week of presentations. Give the world the opportunity to not offend your design sensibilities by sharing better templates!
 
-# Scripts
+## Scripts
 The `scripts` folder contains the scripts used to build and unpack the .otp files. Binaries are purposely not stored in the repository in an effort to avoid using git for things it was not meant to do. Instead, they are made available for download in the releases section, while the repository itself contains the unpacked files inside each .otp template. The scripts allow these unpacked files to be compiled into collections of usable template binaries for download.
 
 If you have ruby installed you can also use these to build the templates yourself from source. Just enter a directory containing template source files and execute the `repack_otp.rb` script.
@@ -146,12 +194,12 @@ For example, if you have cloned the repository and want to build the Modern Impr
 
 This will create an .otp template file for each source folder in the directory.
 
-# Download
+## Download
 Head over to [the releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) to download binaries containing the templates for use with LibreOffice Impress.
 
 This collection currently includes __82__ Impress templates that have been tested to work on recent versions of LibreOffice (4.2.8+).
 
-# License
+## License
 These templates have all been released under different licenses, and are grouped together for convenience. They retain their original licenses in all cases. The repository itself (apart from the templates) is released under the MIT license.
 
 * LibreOffice v3.5 Templates (`lo-35-lyt`): Licensed under __LGPLv3__
