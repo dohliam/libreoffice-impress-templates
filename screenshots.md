@@ -343,9 +343,9 @@ citrus-e
 
 cs3
 
-![cs3modII](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/cs3modII/Thumbnails/thumbnail.png)
+![cs3mod2](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/cs3mod2/Thumbnails/thumbnail.png)
 
-cs3modII
+cs3mod2
 
 ![emotion](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/emotion/Thumbnails/thumbnail.png)
 
