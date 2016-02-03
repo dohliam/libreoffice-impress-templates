@@ -1,5 +1,21 @@
 # LibreOffice Impress Templates
 
+* [Background](#background)
+* [Goals](#goals)
+* [Templates](#templates)
+  * [modern-impress-templates](#modern-impress-templates)
+  * [lo-35-lyt](#lo-35-lyt)
+  * [fedora-slideshow](#fedora-slideshow)
+  * [kde-files-org](#kde-files-org)
+  * [ubuntu-odp](#ubuntu-odp)
+  * [chtsai-impress](#chtsai-impress)
+  * [user-contrib](#user-contrib)
+* [Scripts](#scripts)
+* [Download](#download)
+* [License](#license)
+
+## Background
+
 It is surprisingly difficult to find well-designed presentation templates for LibreOffice Impress under a free license.
 
 LibreOffice comes pre-installed with a handful of barebones templates that are not terribly useful.
