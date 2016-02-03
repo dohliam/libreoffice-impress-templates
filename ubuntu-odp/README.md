@@ -1,6 +1,10 @@
 # Ubuntu/Kubuntu/Xubuntu/Edubuntu Templates
 
-## ABOUT v0.1
+This collection includes templates designed by members of the [spreadubuntu](http://spreadubuntu.neomenlo.org/) community.
+
+## DifundeUbuntu Nicaragua Templates
+
+These templates have been designed by [leogg](https://leogg.wordpress.com/) from DifundeUbuntu Nicaragua. Information about the templates is below.
 
 This release of 30 ODP templates for Ubuntu/Kubuntu/Xubuntu/Edubuntu are named after 24 different geographical sites in Nicaragua.
 
@@ -34,3 +38,18 @@ This artwork is (c) copyright by __DifundeUbuntu Nicaragua__ 2009
 Some rights reserved
 
 All of the templates in the `ubuntu-odp` collection are licensed [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/). See the [LICENSE](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/LICENSE) file in this directory for more information.
+
+## Other templates
+
+Template name | License | Author | Based on
+------------- | ------- | ------ | --------
+`ubuntu-curve-brown` | [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) | Charles Profitt | [Ubuntu Impress Background Image](http://spreadubuntu.neomenlo.org/bn/material/presentation/ubuntu-impress-background-image)
+`ubuntu-world-map-brown` | [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) | Charles Profitt | [Ubuntu in Education Presentation -- ISTE 21st Century Skills and FOSS](http://spreadubuntu.neomenlo.org/en/material/presentation/ubuntu-education-presentation-iste-21st-century-skills-and-foss)
+`ubuntu-tallship-aubergine` | [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) | Charles Profitt | [Ubuntu Aubergine Background Set](http://spreadubuntu.neomenlo.org/bn/material/presentation/ubuntu-aubergine-background-set)
+`ubuntu-orange-dots` | [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) | alarconj | [Ubuntu New Template](http://spreadubuntu.neomenlo.org/bn/material/presentation/ubuntu-new-template)
+`xubuntu-treeline-blue` | [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/) | lyz | [Xubuntu Presentation](http://spreadubuntu.neomenlo.org/bn/material/presentation/xubuntu-presentation)
+
+Notes:
+* `ubuntu-orange-dots` is by alarconj based on a work by Ursula Junque (Ursinha)
+* `xubuntu-treeline-blue` is by lyz based on a work by Pasi Lallinaho
+  * Use "View > Header and Footer" to change text in the footer and manipulate slide/page numbering options.

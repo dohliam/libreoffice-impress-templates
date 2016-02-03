@@ -260,7 +260,7 @@ A collection of 35 templates based on designs from members of the community at [
 
 K/X/Ubuntu branding has been mostly removed, except in cases where it seems generic or otherwise not obvious (e.g. a giant faint gear or circle in the background).
 
-All of the templates are licensed CC-BY-SA (for full attribution and license information, see [license.txt](https://github.com/dohliam/libreoffice-impress-templates/blob/master/ubuntu-odp/license.txt) in the ubuntu-odp folder, or the individual metadata in each templates meta.xml file.
+All of the templates are licensed CC-BY-SA (for full attribution and license information, see the [LICENSE](https://github.com/dohliam/libreoffice-impress-templates/blob/master/ubuntu-odp/LICENSE) file in the ubuntu-odp folder, or the individual metadata in each templates meta.xml file.
 
 The templates included in __ubuntu-odp__ are:
 * _edubuntu-community_
@@ -303,7 +303,7 @@ The templates included in __ubuntu-odp__ are:
 
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/edubuntu-esteli/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/kubuntu-kukra-hill/Thumbnails/thumbnail.png)
-![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/ubuntu-aubergine/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/ubuntu-tallship-aubergine/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/ubuntu-gnome-powered/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/ubuntu-ubaldo/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/ubuntu-ulwaskin/Thumbnails/thumbnail.png)
