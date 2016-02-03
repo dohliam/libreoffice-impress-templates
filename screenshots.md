@@ -77,145 +77,145 @@ xuhai2
 
 ## fedora-slideshow
 
-![fedora-bubbles](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-bubbles/Thumbnails/thumbnail.png)
+![fedora-bubbles](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-bubbles/Thumbnails/thumbnail.png)
 
 fedora-bubbles
 
-![fedora-clean-blue-white](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-clean-blue-white/Thumbnails/thumbnail.png)
+![fedora-clean-blue-white](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-clean-blue-white/Thumbnails/thumbnail.png)
 
 fedora-clean-blue-white
 
-![fedora-clean-grey](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-clean-grey/Thumbnails/thumbnail.png)
+![fedora-clean-grey](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-clean-grey/Thumbnails/thumbnail.png)
 
 fedora-clean-grey
 
-![fedora-floral-green](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-floral-green/Thumbnails/thumbnail.png)
+![fedora-floral-green](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-floral-green/Thumbnails/thumbnail.png)
 
 fedora-floral-green
 
-![fedora-gradients-dark](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-gradients-dark/Thumbnails/thumbnail.png)
+![fedora-gradients-dark](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-gradients-dark/Thumbnails/thumbnail.png)
 
 fedora-gradients-dark
 
-![fedora-gradients-light](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-gradients-light/Thumbnails/thumbnail.png)
+![fedora-gradients-light](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-gradients-light/Thumbnails/thumbnail.png)
 
 fedora-gradients-light
 
-![fedora-gradients-medium](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-gradients-medium/Thumbnails/thumbnail.png)
+![fedora-gradients-medium](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-gradients-medium/Thumbnails/thumbnail.png)
 
 fedora-gradients-medium
 
-![fedora-mirrormanager](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-mirrormanager/Thumbnails/thumbnail.png)
+![fedora-mirrormanager](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-mirrormanager/Thumbnails/thumbnail.png)
 
 fedora-mirrormanager
 
-![fedora-odometer](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-odometer/Thumbnails/thumbnail.png)
+![fedora-odometer](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-odometer/Thumbnails/thumbnail.png)
 
 fedora-odometer
 
-![fedora-patterns-clover](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-patterns-clover/Thumbnails/thumbnail.png)
+![fedora-patterns-clover](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-patterns-clover/Thumbnails/thumbnail.png)
 
 fedora-patterns-clover
 
-![fedora-patterns-wings](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-patterns-wings/Thumbnails/thumbnail.png)
+![fedora-patterns-wings](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-patterns-wings/Thumbnails/thumbnail.png)
 
 fedora-patterns-wings
 
-![fedora-photography](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-photography/Thumbnails/thumbnail.png)
+![fedora-photography](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-photography/Thumbnails/thumbnail.png)
 
 fedora-photography
 
-![fedora-server-theme](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-server-theme/Thumbnails/thumbnail.png)
+![fedora-server-theme](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-server-theme/Thumbnails/thumbnail.png)
 
 fedora-server-theme
 
-![fedora-solar-splash](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-solar-splash/Thumbnails/thumbnail.png)
+![fedora-solar-splash](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-solar-splash/Thumbnails/thumbnail.png)
 
 fedora-solar-splash
 
-![fedora-sunlight-bubbles](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-sunlight-bubbles/Thumbnails/thumbnail.png)
+![fedora-sunlight-bubbles](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-sunlight-bubbles/Thumbnails/thumbnail.png)
 
 fedora-sunlight-bubbles
 
-![fedora-textures-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-textures-blue/Thumbnails/thumbnail.png)
+![fedora-textures-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-textures-blue/Thumbnails/thumbnail.png)
 
 fedora-textures-blue
 
-![fedora-textures-grey-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-textures-grey-blue/Thumbnails/thumbnail.png)
+![fedora-textures-grey-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-textures-grey-blue/Thumbnails/thumbnail.png)
 
 fedora-textures-grey-blue
 
-![fedora-textures-wings](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/fedora-textures-wings/Thumbnails/thumbnail.png)
+![fedora-textures-wings](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/fedora-slideshow/fedora-textures-wings/Thumbnails/thumbnail.png)
 
 fedora-textures-wings
 
 ## kde-files-org
 
-![autumn-flowers](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/autumn-flowers/Thumbnails/thumbnail.png)
+![autumn-flowers](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/autumn-flowers/Thumbnails/thumbnail.png)
 
 autumn-flowers
 
-![braids](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/braids/Thumbnails/thumbnail.png)
+![braids](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/braids/Thumbnails/thumbnail.png)
 
 braids
 
-![braids-gradient-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/braids-gradient-blue/Thumbnails/thumbnail.png)
+![braids-gradient-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/braids-gradient-blue/Thumbnails/thumbnail.png)
 
 braids-gradient-blue
 
-![dreaming](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/dreaming/Thumbnails/thumbnail.png)
+![dreaming](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/dreaming/Thumbnails/thumbnail.png)
 
 dreaming
 
-![letterpress](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/letterpress/Thumbnails/thumbnail.png)
+![letterpress](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/letterpress/Thumbnails/thumbnail.png)
 
 letterpress
 
-![mazu](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/mazu/Thumbnails/thumbnail.png)
+![mazu](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/mazu/Thumbnails/thumbnail.png)
 
 mazu
 
-![red-artistic](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/red-artistic/Thumbnails/thumbnail.png)
+![red-artistic](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/red-artistic/Thumbnails/thumbnail.png)
 
 red-artistic
 
-![soft-background-brown](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/soft-background-brown/Thumbnails/thumbnail.png)
+![soft-background-brown](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/soft-background-brown/Thumbnails/thumbnail.png)
 
 soft-background-brown
 
-![soft-background-brown-murky-emboss](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/soft-background-brown-murky-emboss/Thumbnails/thumbnail.png)
+![soft-background-brown-murky-emboss](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/soft-background-brown-murky-emboss/Thumbnails/thumbnail.png)
 
 soft-background-brown-murky-emboss
 
-![soft-background-burgandy](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/soft-background-burgandy/Thumbnails/thumbnail.png)
+![soft-background-burgandy](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/soft-background-burgandy/Thumbnails/thumbnail.png)
 
 soft-background-burgandy
 
-![soft-background-green](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/soft-background-green/Thumbnails/thumbnail.png)
+![soft-background-green](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/soft-background-green/Thumbnails/thumbnail.png)
 
 soft-background-green
 
-![soft-background-green-emboss](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/soft-background-green-emboss/Thumbnails/thumbnail.png)
+![soft-background-green-emboss](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/soft-background-green-emboss/Thumbnails/thumbnail.png)
 
 soft-background-green-emboss
 
-![soft-background-sky](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/soft-background-sky/Thumbnails/thumbnail.png)
+![soft-background-sky](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/soft-background-sky/Thumbnails/thumbnail.png)
 
 soft-background-sky
 
-![spring](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/spring/Thumbnails/thumbnail.png)
+![spring](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/spring/Thumbnails/thumbnail.png)
 
 spring
 
-![squares](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/squares/Thumbnails/thumbnail.png)
+![squares](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/squares/Thumbnails/thumbnail.png)
 
 squares
 
-![traeth-glas](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/traeth-glas/Thumbnails/thumbnail.png)
+![traeth-glas](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/traeth-glas/Thumbnails/thumbnail.png)
 
 traeth-glas
 
-![yellow](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/ubuntu-odp/yellow/Thumbnails/thumbnail.png)
+![yellow](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/kde-files-org/yellow/Thumbnails/thumbnail.png)
 
 yellow
 
