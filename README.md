@@ -365,6 +365,15 @@ For example, if you have cloned the repository and want to build the Modern Impr
 
 This will create an .otp template file for each source folder in the directory.
 
+You can also use the scripts to pack and unpack individual templates. Just add one or more template file or folder names after the main command, e.g.:
+
+    cd kde-files-org
+    ruby ../scripts/repack_otp.rb letterpress squares chalkboard
+
+or
+
+    ruby unpack_otp.rb letterpress.otp squares.otp chalkboard.otp
+
 ## Download
 
 Head over to [the releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) to download binaries containing the templates for use with LibreOffice Impress.
