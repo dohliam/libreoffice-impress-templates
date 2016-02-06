@@ -380,6 +380,8 @@ Head over to [the releases section](https://github.com/dohliam/libreoffice-impre
 
 This collection currently includes __153__ Impress templates that have been tested to work on recent versions of LibreOffice (4.2.8+).
 
+There is now a .deb package available for Ubuntu and Debian-based systems that will install all 153 templates for immediate use in LibreOffice. See [the releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) for the latest packages and [the install guide](https://github.com/dohliam/libreoffice-impress-templates/wiki/Ubuntu-Debian-Install-Guide) in the wiki for help with installation.
+
 ## License
 
 These templates have all been released under different licenses, and are grouped together for convenience. They retain their original licenses in all cases. The repository itself (apart from the templates) is released under the MIT license.
