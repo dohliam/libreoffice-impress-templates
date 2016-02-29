@@ -73,18 +73,18 @@ The templates included in __modern-impress-templates__ are:
 * _more-green_
 * _motion-stripes_
 * _pixels-rock_
-* _reo-veo1_
-* _reo-veo2_
-* _reo-veo3_
-* _reo-veo4_
-* _reo-veo5_
-* _reo-veo6_
-* _reo-veo7_
-* _reo-veo8_
-* _reo-veo9_
-* _reo-veo10_
-* _reo-veo11_
-* _reo-veo12_
+* _eco-aqua_
+* _eco-blue_
+* _eco-cyan_
+* _eco-gold_
+* _eco-green_
+* _eco-grey_
+* _eco-lightblue_
+* _eco-maroon_
+* _eco-orange_
+* _eco-pink_
+* _eco-purple_
+* _eco-red_
 * _sedi_
 * _suse-wallpaper_
 * _swamp-gas_
@@ -110,8 +110,8 @@ The templates included in __modern-impress-templates__ are:
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/more-green/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/motion-stripes/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/pixels-rock/Thumbnails/thumbnail.png)
-![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo1/Thumbnails/thumbnail.png)
-![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo4/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-blue/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-maroon/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/sedi/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/suse-wallpaper/Thumbnails/thumbnail.png)
 ![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/swamp-gas/Thumbnails/thumbnail.png)

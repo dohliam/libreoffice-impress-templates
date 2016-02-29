@@ -415,53 +415,53 @@ pixels-rock:
 
 ![pixels-rock](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/pixels-rock/Thumbnails/thumbnail.png)
 
-reo-veo1:
+eco-aqua:
 
-![reo-veo1](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo1/Thumbnails/thumbnail.png)
+![eco-aqua](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-aqua/Thumbnails/thumbnail.png)
 
-reo-veo2:
+eco-blue:
 
-![reo-veo2](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo2/Thumbnails/thumbnail.png)
+![eco-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-blue/Thumbnails/thumbnail.png)
 
-reo-veo3:
+eco-cyan:
 
-![reo-veo3](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo3/Thumbnails/thumbnail.png)
+![eco-cyan](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-cyan/Thumbnails/thumbnail.png)
 
-reo-veo4:
+eco-gold:
 
-![reo-veo4](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo4/Thumbnails/thumbnail.png)
+![eco-gold](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-gold/Thumbnails/thumbnail.png)
 
-reo-veo5:
+eco-green:
 
-![reo-veo5](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo5/Thumbnails/thumbnail.png)
+![eco-green](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-green/Thumbnails/thumbnail.png)
 
-reo-veo6:
+eco-grey:
 
-![reo-veo6](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo6/Thumbnails/thumbnail.png)
+![eco-grey](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-grey/Thumbnails/thumbnail.png)
 
-reo-veo7:
+eco-lightblue:
 
-![reo-veo7](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo7/Thumbnails/thumbnail.png)
+![eco-lightblue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-lightblue/Thumbnails/thumbnail.png)
 
-reo-veo8:
+eco-maroon:
 
-![reo-veo8](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo8/Thumbnails/thumbnail.png)
+![eco-maroon](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-maroon/Thumbnails/thumbnail.png)
 
-reo-veo9:
+eco-orange:
 
-![reo-veo9](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo9/Thumbnails/thumbnail.png)
+![eco-orange](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-orange/Thumbnails/thumbnail.png)
 
-reo-veo10:
+eco-pink:
 
-![reo-veo10](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo10/Thumbnails/thumbnail.png)
+![eco-pink](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-pink/Thumbnails/thumbnail.png)
 
-reo-veo11:
+eco-purple:
 
-![reo-veo11](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo11/Thumbnails/thumbnail.png)
+![eco-purple](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-purple/Thumbnails/thumbnail.png)
 
-reo-veo12:
+eco-red:
 
-![reo-veo12](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/reo-veo12/Thumbnails/thumbnail.png)
+![eco-red](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/modern-impress-templates/eco-red/Thumbnails/thumbnail.png)
 
 sedi:
 
