@@ -2,6 +2,7 @@
 
 * [Background](#background)
 * [Goals](#goals)
+* [Screenshots](#screenshots)
 * [Templates](#templates)
   * [modern-impress-templates](#modern-impress-templates)
   * [lo-35-lyt](#lo-35-lyt)
@@ -20,7 +21,7 @@ It is surprisingly difficult to find well-designed presentation templates for Li
 
 LibreOffice comes pre-installed with a handful of barebones templates that are not terribly useful.
 
-[Many](https://ask.libreoffice.org/en/question/126/where-can-i-download-pretty-extra-templates-for-libreoffice-impress/) [people](http://askubuntu.com/questions/82884/where-can-i-download-pretty-extra-templates-for-libreoffice-impress) online have asked about where to find more and better templates, and they are usually directed to the LibreOffice Templates website. There are surprisingly few usable templates there -- many are abandoned, not actually available for download, lacking any license information, and so on -- but those that can be downloaded and used are ... not what one might expect to see in a modern presentation.
+[Many](https://ask.libreoffice.org/en/question/126/where-can-i-download-pretty-extra-templates-for-libreoffice-impress/) [people](http://askubuntu.com/questions/82884/where-can-i-download-pretty-extra-templates-for-libreoffice-impress) online have asked about where to find more and better templates, and they are usually directed to the LibreOffice Templates website. There are surprisingly few usable templates there -- many are abandoned, not actually available for download, lacking any license information, and so on -- but those that can be downloaded and used are often not what one might expect to see in a modern presentation.
 
 Further searching will turn up various odds-and-ends that have cropped up over the years -- a download here, a website there -- as well as more unlicensed or non-free templates and even suggestions to just use .ppt files from MS Office.
 
@@ -28,7 +29,7 @@ Most amazing of all is the lack of packages containing additional templates for 
 
 For example, the `libreoffice-templates` package (description: "Additional set of templates for LibreOffice") that is available in Ubuntu, only contains the 8 default templates that come with LibreOffice itself. Installing this package thus has no effect on the templates available to the user in Impress, and no other template packages appear to be available.
 
-This is not an ideal state of affairs.
+This project aims to improve this situation.
 
 ## Goals
 
@@ -37,6 +38,10 @@ This is not an ideal state of affairs.
 2. To eventually build packages for as many distros as possible so that people can install extra templates easily through their package manager. These should work without any additional intervention on the part of the user -- if you install a templates package, you should just need to open Impress and go to the templates gallery to see all the templates you have just installed, ready for use.
 
 3. To provide a central place for a curated, maintained collection of high-quality, working Impress templates designed by the community.
+
+## Screenshots
+
+There is a full gallery of screenshots for all the templates included in this project on the [screenshots page](https://github.com/dohliam/libreoffice-impress-templates/blob/master/screenshots.md).
 
 ## Templates
 
@@ -361,35 +366,29 @@ If you have ruby installed you can also use these to build the templates yoursel
 For example, if you have cloned the repository and want to build the Modern Impress Templates collection, you can use the following commands from within the main repository directory:
 
     cd modern-impress-templates
-    ruby ../scripts/repack_otp.rb
+    ../scripts/repack_otp.rb
 
 This will create an .otp template file for each source folder in the directory.
 
 You can also use the scripts to pack and unpack individual templates. Just add one or more template file or folder names after the main command, e.g.:
 
     cd kde-files-org
-    ruby ../scripts/repack_otp.rb letterpress squares chalkboard
+    ../scripts/repack_otp.rb letterpress squares chalkboard
 
 or
 
-    ruby unpack_otp.rb letterpress.otp squares.otp chalkboard.otp
+    ../scripts/unpack_otp.rb letterpress.otp squares.otp chalkboard.otp
 
 ## Download
 
 Head over to [the releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) to download binaries containing the templates for use with LibreOffice Impress.
 
-This collection currently includes __153__ Impress templates that have been tested to work on recent versions of LibreOffice (4.2.8+).
+This collection currently includes __242__ Impress templates that have been tested to work on recent versions of LibreOffice (4.2.8+).
 
-There is now a .deb package available for Ubuntu and Debian-based systems that will install all 153 templates for immediate use in LibreOffice. See [the releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) for the latest packages and [the install guide](https://github.com/dohliam/libreoffice-impress-templates/wiki/Ubuntu-Debian-Install-Guide) in the wiki for help with installation.
+There is now a .deb package available for Ubuntu and Debian-based systems that will install all the templates for immediate use in LibreOffice. See [the releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) for the latest packages and [the install guide](https://github.com/dohliam/libreoffice-impress-templates/wiki/Ubuntu-Debian-Install-Guide) in the wiki for help with installation.
 
 ## License
 
-These templates have all been released under different licenses, and are grouped together for convenience. They retain their original licenses in all cases. The repository itself (apart from the templates) is released under the MIT license.
+These templates have all been released under different (open) licenses, and are grouped together for convenience. They retain their original licenses in all cases. The repository itself (apart from the templates) is released under the MIT license.
 
-* Chih-Hao Tsai Impress Templates (`chtsai-impress`): __CC-BY-SA__
-* Fedora Slideshow Templates (`fedora-slideshow`): __Various__ (_please see the [README](https://github.com/dohliam/libreoffice-impress-templates/blob/master/fedora-slideshow/README.md) in the fedora-slideshow directory, and the metadata (`meta.xml`) included with each file for license details_)
-* kde-files.org ODP Templates (`kde-files-org`): __Various__ (_see [the README](https://github.com/dohliam/libreoffice-impress-templates/blob/master/kde-files-org/README.md) in the kde-files-org folder for attribution and license details_)
-* LibreOffice v3.5 Templates (`lo-35-lyt`): Licensed under __LGPLv3__
-* Modern Impress Templates (`modern-impress-templates`): __Various__ (_see the [LICENSE](https://github.com/dohliam/libreoffice-impress-templates/blob/master/modern-impress-templates/LICENSE) file in the modern-impress-templates folder as well as the individual `meta.xml` files included with each template for license details_)
-    * Note: Many of these are CC-BY, some are CC-BY-SA or CC-BY-NC-SA, and a few are licensed under the GPL or LGPL. Please check specific license restrictions before reusing.
-* Ubuntu ODP Templates (`ubuntu-odp`): __CC-BY-SA__
+See the readme files in each folder for an overview of the template licenses for each collection. Most of the templates also include detailed attribution and licensing details in the `meta.xml` file located in the template source folder.

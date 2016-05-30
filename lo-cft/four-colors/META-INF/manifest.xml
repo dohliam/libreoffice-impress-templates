@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest:manifest xmlns:manifest="urn:oasis:names:tc:opendocument:xmlns:manifest:1.0" manifest:version="1.2">
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.presentation-template" manifest:version="1.2" manifest:full-path="/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="meta.xml"/>
+ <manifest:file-entry manifest:media-type="image/svg+xml" manifest:full-path="Pictures/200000010000668700004D9EB3498A2F.svg"/>
+ <manifest:file-entry manifest:media-type="image/svg+xml" manifest:full-path="Pictures/200000010000668700004D9EB6CA6ED7.svg"/>
+ <manifest:file-entry manifest:media-type="image/svg+xml" manifest:full-path="Pictures/200000010000668700004D9E34B20424.svg"/>
+ <manifest:file-entry manifest:media-type="image/svg+xml" manifest:full-path="Pictures/200000010000668700004D9E7792B7FB.svg"/>
+ <manifest:file-entry manifest:media-type="image/svg+xml" manifest:full-path="Pictures/200000010000668700004D9E1DD4B3BB.svg"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="settings.xml"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="content.xml"/>
+ <manifest:file-entry manifest:media-type="image/png" manifest:full-path="Thumbnails/thumbnail.png"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Configurations2/accelerator/current.xml"/>
+ <manifest:file-entry manifest:media-type="application/vnd.sun.xml.ui.configuration" manifest:full-path="Configurations2/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="styles.xml"/>
+</manifest:manifest>
