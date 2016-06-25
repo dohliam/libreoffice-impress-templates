@@ -1,0 +1,16 @@
+# material-simple
+
+These simple templates are loosely based on Google's [Material Design](https://material.google.com/) guidelines. The idea is to have a clean and simple presentation template in a given colour scheme.
+
+## Screenshots
+
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material_simple/material_blue/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material_simple/material_green/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material_simple/material_red/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material_simple/material_pink/Thumbnails/thumbnail.png)
+
+## License
+
+MIT.
+
+See [license file](LICENSE) for details.
