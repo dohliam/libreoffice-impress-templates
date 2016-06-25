@@ -992,18 +992,18 @@ xubuntu-xolotlan
 
 ## user-contrib
 
-material_blue
+material-blue
 
 ![material-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-blue/Thumbnails/thumbnail.png)
 
-material_green
+material-green
 
 ![material-green](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-green/Thumbnails/thumbnail.png)
 
-material_pink
+material-pink
 
 ![material-pink](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-pink/Thumbnails/thumbnail.png)
 
-material_red
+material-red
 
 ![material-red](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-red/Thumbnails/thumbnail.png)

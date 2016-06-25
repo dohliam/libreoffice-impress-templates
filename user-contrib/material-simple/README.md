@@ -4,10 +4,10 @@ These simple templates are loosely based on Google's [Material Design](https://m
 
 ## Screenshots
 
-![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material_simple/material_blue/Thumbnails/thumbnail.png)
-![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material_simple/material_green/Thumbnails/thumbnail.png)
-![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material_simple/material_red/Thumbnails/thumbnail.png)
-![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material_simple/material_pink/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-blue/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-green/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-red/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-pink/Thumbnails/thumbnail.png)
 
 ## License
 
