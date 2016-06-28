@@ -994,16 +994,44 @@ xubuntu-xolotlan
 
 material-blue
 
-![material-blue](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-blue/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-blue/Thumbnails/thumbnail.png)
+
+material-brown
+
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-brown/Thumbnails/thumbnail.png)
 
 material-green
 
-![material-green](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-green/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-green/Thumbnails/thumbnail.png)
+
+material-grey
+
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-grey/Thumbnails/thumbnail.png)
+
+material-lime
+
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-lime/Thumbnails/thumbnail.png)
+
+material-orange
+
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-orange/Thumbnails/thumbnail.png)
 
 material-pink
 
-![material-pink](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-pink/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-pink/Thumbnails/thumbnail.png)
+
+material-purple
+
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-purple/Thumbnails/thumbnail.png)
 
 material-red
 
-![material-red](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-red/Thumbnails/thumbnail.png)
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-red/Thumbnails/thumbnail.png)
+
+material-teal
+
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-teal/Thumbnails/thumbnail.png)
+
+material-yellow
+
+![](https://raw.githubusercontent.com/dohliam/libreoffice-impress-templates/master/user-contrib/material-simple/material-yellow/Thumbnails/thumbnail.png)
