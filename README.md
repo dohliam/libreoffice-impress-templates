@@ -47,7 +47,9 @@ This project aims to improve this situation.
 
 ## Screenshots
 
-There is a full gallery of screenshots for all the templates included in this project on the [screenshots page](https://github.com/dohliam/libreoffice-impress-templates/blob/master/screenshots.md).
+You can now **live search** through all the templates using _tags_. Try it out on the [template homepage](https://dohliam.github.io/libreoffice-impress-templates/).
+
+There is also a full gallery of screenshots for all the templates included in this project on the [screenshots page](https://github.com/dohliam/libreoffice-impress-templates/blob/master/screenshots.md).
 
 ## Templates
 
@@ -406,6 +408,8 @@ For a full list of template screenshots in this package, see the [screenshots pa
 
 Calling all designers! This is your chance to make a difference by making well-designed templates freely available so that non-designers don't have to (_shudder_) make their own. Any and all submissions are welcome in the `user-contribs` folder. It doesn't have to be the best presentation template you can make -- just the template you wish everyone else had used when you have to sit through a day or a week of presentations. Give the world the opportunity to not offend your design sensibilities by sharing better templates!
 
+Details on the currently available templates in this collection can be found [here](https://github.com/dohliam/libreoffice-impress-templates/tree/master/user-contrib).
+
 ## Scripts
 
 The `scripts` folder contains the scripts used to build and unpack the .otp files. Binaries are purposely not stored in the repository in an effort to avoid using git for things it was not meant to do. Instead, they are made available for download in the [releases section](https://github.com/dohliam/libreoffice-impress-templates/releases), while the repository itself contains the unpacked files inside each .otp template. The scripts allow these unpacked files to be compiled into collections of usable template binaries for download.
@@ -432,7 +436,7 @@ or
 
 Head over to the [releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) to download binaries containing the templates for use with LibreOffice Impress.
 
-This collection currently includes __242__ Impress templates that have been tested to work on recent versions of LibreOffice (4.2.8+).
+This collection currently includes __253__ Impress templates that have been tested to work on recent versions of LibreOffice (4.2.8+).
 
 There is now a .deb package available for Ubuntu and Debian-based systems that will install all the templates for immediate use in LibreOffice. See the [releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) for the latest packages and [the install guide](https://github.com/dohliam/libreoffice-impress-templates/wiki/Ubuntu-Debian-Install-Guide) in the wiki for help with installation.
 
