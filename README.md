@@ -440,6 +440,26 @@ This collection currently includes __253__ Impress templates that have been test
 
 There is now a .deb package available for Ubuntu and Debian-based systems that will install all the templates for immediate use in LibreOffice. See the [releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) for the latest packages and [the install guide](https://github.com/dohliam/libreoffice-impress-templates/wiki/Ubuntu-Debian-Install-Guide) in the wiki for help with installation.
 
+## Installation
+
+Most of the individual templates can be used directly without installation by clicking on the .otp files (available in the [release packages](https://github.com/dohliam/libreoffice-impress-templates/releases)).
+
+To get the .otp file for a particular template, just download the corresponding template collection from the [release section](https://github.com/dohliam/libreoffice-impress-templates/releases), unzip it and look in the `otp` folder for the file you want.
+
+It is also possible to compile one or all of the templates manually from source, using the [template packing script](#scripts) in the scripts folder.
+
+Installation packages for specific operating systems are also available (see below for further details).
+
+### Arch Linux
+
+* ![logo](http://www.monitorix.org/imgs/archlinux.png "arch logo") Arch Linux: in the [AUR](https://aur.archlinux.org/packages/libreoffice-impress-templates/) (_thanks to Louis Tim Larsen_).
+
+### Ubuntu & Debian
+
+There is now a .deb package available for Ubuntu and Debian-based systems that will install all the templates for immediate use in LibreOffice.
+
+See the [releases section](https://github.com/dohliam/libreoffice-impress-templates/releases) for the latest packages and [the install guide](https://github.com/dohliam/libreoffice-impress-templates/wiki/Ubuntu-Debian-Install-Guide) in the wiki for help with installation.
+
 ## License
 
 These templates have all been released under different (open) licenses, and are grouped together for convenience. They retain their original licenses in all cases. The repository itself (apart from the templates) is released under the MIT license.
