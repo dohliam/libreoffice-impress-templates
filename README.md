@@ -1,25 +1,34 @@
 # LibreOffice Impress Templates
 
-* [Background](#background)
-* [Goals](#goals)
-* [Screenshots](#screenshots)
-* [Templates](#templates)
-  * [apache-oo](#apache-oo)
-  * [chtsai-impress](#chtsai-impress)
-  * [fedora-slideshow](#fedora-slideshow)
-  * [kde-files-org](#kde-files-org)
-  * [lo-cft](#lo-cft)
-  * [lo35-templates](#lo35-templates)
-  * [lo4-design-candidates](#lo4-design-candidates)
-  * [lo5-design-candidates](#lo5-design-candidates)
-  * [lo51-templates](#lo51-templates)
-  * [modern-impress-templates](#modern-impress-templates)
-  * [other](#other)
-  * [ubuntu-odp](#ubuntu-odp)
-  * [user-contrib](#user-contrib)
-* [Scripts](#scripts)
-* [Download](#download)
-* [License](#license)
+* [1 Background](#background)
+* [2 Goals](#goals)
+* [3 Screenshots](#screenshots)
+* [4 Templates](#templates)
+  * [4.1 apache-oo](#apache-oo)
+  * [4.2 chtsai-impress](#chtsai-impress)
+    * [4.2.1 samples](#samples)
+  * [4.3 fedora-slideshow](#fedora-slideshow)
+    * [4.3.1 samples](#samples)
+  * [4.4 kde-files-org](#kde-files-org)
+    * [4.4.1 samples](#samples)
+  * [4.5 lo-cft](#lo-cft)
+  * [4.6 lo35-templates](#lo35-templates)
+    * [4.6.1 samples](#samples)
+  * [4.7 lo4-design-candidates](#lo4-design-candidates)
+  * [4.8 lo5-design-candidates](#lo5-design-candidates)
+  * [4.9 lo51-templates](#lo51-templates)
+  * [4.10 modern-impress-templates](#modern-impress-templates)
+    * [4.10.1 samples](#samples)
+  * [4.11 other](#other)
+  * [4.12 ubuntu-odp](#ubuntu-odp)
+    * [4.12.1 samples](#samples)
+  * [4.13 user-contrib](#user-contrib)
+* [5 Scripts](#scripts)
+* [6 Download](#download)
+* [7 Installation](#installation)
+  * [7.1 Arch Linux](#arch-linux)
+  * [7.2 Ubuntu & Debian](#ubuntu--debian)
+* [8 License](#license)
 
 ## Background
 
@@ -465,3 +474,5 @@ See the [releases section](https://github.com/dohliam/libreoffice-impress-templa
 These templates have all been released under different (open) licenses, and are grouped together for convenience. They retain their original licenses in all cases. The repository itself (apart from the templates) is released under the MIT license.
 
 See the readme files in each folder for an overview of the template licenses for each collection. Most of the templates also include detailed attribution and licensing details in the `meta.xml` file located in the template source folder.
+
+Table of contents made with [tocdown](https://github.com/dohliam/tocdown).
