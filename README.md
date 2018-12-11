@@ -430,6 +430,8 @@ For example, if you have cloned the repository and want to build the Modern Impr
     cd modern-impress-templates
     ../scripts/repack_otp.rb
 
+You MUST change directory into a collection directory for the script to work.
+
 This will create an .otp template file for each source folder in the directory.
 
 You can also use the scripts to pack and unpack individual templates. Just add one or more template file or folder names after the main command, e.g.:
