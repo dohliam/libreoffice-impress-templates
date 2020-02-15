@@ -64,7 +64,7 @@ There is also a full gallery of screenshots for all the templates included in th
 
 ### apache-oo
 
-A collection of open-licensed templates from the [Apache Open Office Templates](http://templates.openoffice.org/en/search?sort_by=field_template_stats_year&sort_order=DESC&f%5B0%5D=field_template_application%3A30) collection.
+A collection of open-licensed templates from the [Apache OpenOffice Templates](https://templates.openoffice.org/en/search?sort_by=field_template_stats_year&sort_order=DESC&f%5B0%5D=field_template_application%3A30) collection.
 
 * [Details](https://github.com/dohliam/libreoffice-impress-templates/tree/master/apache-oo)
 * [Screenshots](https://github.com/dohliam/libreoffice-impress-templates/blob/master/screenshots.md#apache-oo)
